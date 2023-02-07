@@ -105,10 +105,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
     Made with 💜 by Highlander
 </p>
 <p align="left">
-    <a href="https://www.linkedin.com/in/pabloalan/" target="_blank">
+    <a href="https://www.linkedin.com/in/highlandersantos/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Pablo Alan" />
     </a>
-    <a href="mailto:pabloxt14@gmail.com" target="_blank">
+    <a href="mailto:santosray62@@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Pablo Alan" />
     </a>
 </p>
